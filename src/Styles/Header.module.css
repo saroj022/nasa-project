@@ -1,0 +1,27 @@
+.main{
+    /* border: 1px solid red; */
+    /* height: 70px; */
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.first{
+    /* border: 1px solid green; */
+    width: 50%;
+}
+.head1{
+    margin-right: 300px;
+    margin-top: 5px;
+}
+.head2{
+    margin-right: 300px;
+    margin-top: 5px;
+}
+.second{
+    /* border: 1px solid blue; */
+    width: 50%;
+}
+.img{
+    width: 170px;
+    height: 80px;
+    margin-left: 400px;
+}
